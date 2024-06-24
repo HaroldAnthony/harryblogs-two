@@ -9,7 +9,7 @@ The evolution of the original HTML-CSS harryblogs site.
                    1) Word wrapping - the solution was simply the keyboard shortcut - Alt + Z, or using Toggle Word Wrap in the VS Code search options.
                    2) lorem ipsum - turns out I didn't need any extension installation. I had to just use emmet.includeLanguages and specify "javascript" : "javascriptreact" (I realized that lorem ipsum 
                    actually worked fine in a html file)
-                   3) small color preview box - I also realized that the color I used, in a <h1> tag, was a Tailwind color, and I just had to install the Tailwind CSS IntelliSense extension (Before this, I 
+                   3) small color preview box - I also realized that the color I used, in a h1 tag, was a Tailwind color, and I just had to install the Tailwind CSS IntelliSense extension (Before this, I 
                    found out that color boxes did appear beside color values in a css file)
 
 
