@@ -27,7 +27,7 @@ const ArticlesList = () => {
                     </h3>
                   </Link>
                   <p className="leading-relaxed mb-3">
-                    {article.content[0].substring(0, 115)}
+                    {article.content[0].substring(0, 110)}...
                   </p>
                 </div>
               </div>
