@@ -12,5 +12,7 @@ The evolution of the original HTML-CSS harryblogs site.
                    <p> 3) small color preview box - I also realized that the color I used, in a h1 tag, was a Tailwind color, and I just had to install the Tailwind CSS IntelliSense extension (Before this, I 
                    found out that color boxes did appear beside color values in a css file)
 
+04-07-2024 15:11 - Moving onto the back-end part of the project, upon the completion of the basic vanilla front-end styling and functionalities.
+
 
 
