@@ -14,7 +14,10 @@ The evolution of the original HTML-CSS harryblogs site.
 
 04-07-2024 15:11 - Moving onto the back-end part of the project, upon the completion of the basic vanilla front-end styling and functionalities.
 
-09-07-2024 13:25 - After installation of Express, nodemon, and creation of the server.js (which replaced index.js as the 'main' file [as specified in the package.json file]), as well as port definition (PORT, 8000), Postman is installed, to test the running of the actual server.
+09-07-2024 13:25 - After installation of Express, nodemon, and creation of the server.js (which replaced index.js as the 'main' file [as specified in the package.json file]), as well as port definition (PORT, 8000), Postman is installed, to test the running of the actual server. It is worth noting that the progression of several prior events remain undocumented, so a basic overview is provided below -
+                   <p> 1) arrow function - initial demand required the installation of the 'Fast Arrow' extension, however, upon realization that the standard "= + >" (typed on the keyboard), resulted in "=>", the extension was deemed redundant.
+                   <p> 2) backticks - similarly, the 'Backticks' extension was also deemed redundant, owing to the fact that the backtick key was always present beside the row of number keys (on the keyboard, Dell Inspiron 15 5567), so this was followed by appropriate uninstallations of extensions.
+
 
 
 
