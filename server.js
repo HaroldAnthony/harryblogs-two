@@ -9,6 +9,6 @@ app.use(express.json({ extended: false }));
 
 //just a test route
 app.get("/", (req, res) => res.send("Hello World"));
-app.post("/",(req, res) => res.send(`Hello ${req.body.name}`));
+app.post("/", (req, res) => res.send(`Hello ${req.body.name}`));
 
 app.listen(PORT, () => console.log(`Server started at port ${PORT}`));
