@@ -14,5 +14,8 @@ The evolution of the original HTML-CSS harryblogs site.
 
 04-07-2024 15:11 - Moving onto the back-end part of the project, upon the completion of the basic vanilla front-end styling and functionalities.
 
+09-07-2024 13:25 - After installation of Express, nodemon, and creation of the server.js (which replaced index.js as the 'main' file [as specified in the package.json file]), as well as port definition (PORT, 8000), Postman is installed, to test the running of the actual server.
+
+
 
 
