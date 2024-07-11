@@ -3,8 +3,16 @@ const app = express();
 const PORT = process.env.PORT || 8000;
 
 const articlesInfo = {
-    
-}
+  "learn-react": {
+    comments: [],
+  },
+  "learn-node": {
+    comments: [],
+  },
+  "my-thoughts-on-learning-react": {
+    comments: [],
+  },
+};
 
 //initializing middleware
 //earlier, it was required to install body parser, but now it is a built-in function
