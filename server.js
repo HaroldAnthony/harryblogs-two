@@ -2,6 +2,10 @@ const express = require("express");
 const app = express();
 const PORT = process.env.PORT || 8000;
 
+const articlesInfo = {
+    
+}
+
 //initializing middleware
 //earlier, it was required to install body parser, but now it is a built-in function
 //function of express. it parses incoming JSON payload
